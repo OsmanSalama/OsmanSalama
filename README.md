@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OsmanSalama.
 - 👀 I’m interested in programming and art.
 - 🌱 I’m currently learning Computing and Cyber Security.
-- 💞️ I’m looking to collaborate on My Own.
+- 💞️ I’m looking to collaborate with My Own.
 - 📫 How to reach me Osman.Salama77@gmail.com.
 - 👌I am always here.
 
