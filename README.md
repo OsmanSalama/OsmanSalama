@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osman Salama</h1>
-<h3 align="center">A passionate backend developer that loves creating visually appealing apps.</h3>
+<h3 align="center">A passionate backend developer that loves creating visually appealing, highly functional apps.</h3>
 
 - 🔭 I’m currently working on [Todo List App](https://github.com/OsmanSalama/TodoListApp/)
 
