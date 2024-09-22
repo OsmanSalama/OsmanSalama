@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more about Android Development**
 
-- 👨‍💻 All of my projects are available at [namso.me/projects](namso.me/projects)
+- 👨‍💻 All of my projects are available at [namso.me/projects](projects)
 
 - 📝 I regularly write articles on [namso.me](namso.me)
 
