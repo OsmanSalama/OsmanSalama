@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @OsmanSalama.
-- 👀 I’m interested in programming and art.
-- 🌱 I’m currently learning Computing and Cyber Security.
-- 💞️ I’m looking to collaborate with My Own.
-- 📫 How to reach me call my name 3 times.
-- 👌I am always here.
+<h1 align="center">Hi 👋, I'm Osman Salama</h1>
+<h3 align="center">A passionate backend developer that loves creating visually appealing apps.</h3>
 
-<!---
-OsmanSalama/OsmanSalama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on [Todo List App](https://github.com/OsmanSalama/TodoListApp/)
+
+- 🌱 I’m currently learning **more about Android Development**
+
+- 👨‍💻 All of my projects are available at [namso.me/projects](namso.me/projects)
+
+- 📝 I regularly write articles on [namso.me](namso.me)
+
+- 📫 How to reach me **namso.contact@gmail.com**
+
+- ⚡ Fun fact **#ebdbb2 is my favourite colour**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/osmansalama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="osmansalama" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
