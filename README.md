@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Osman Salama</h1>
-<h3 align="center">A passionate backend developer that loves creating visually appealing, highly functional apps.</h3>
+<h3 align="center">A passionate software developer that loves creating visually appealing, highly functional apps.</h3>
 
-- 🔭 I’m currently working on [Todo List App](https://github.com/OsmanSalama/TodoListApp/)
+- 🔭 I’m currently working on [Libraro Library App](https://github.com/OsmanSalama/libraro/)
 
 - 🌱 I’m currently learning **more about Android Development**
 
 - 👨‍💻 All of my projects are available at [namso.me/projects](https://namso.me/projects)
 
-- 📝 I regularly write articles on [namso.me](namso.me)
+- 📝 I regularly write articles on [namso.me](namso.me/blog)
 
 - 📫 How to reach me **namso.contact@gmail.com**
 
