@@ -7,7 +7,7 @@
 - 🌱 Learning **Machine Learning, Neural Networks, Computer Vision, and Natural Language Processing**
 - 💼 Previously completed **HND Computing: Software Development** at City of Glasgow College
 - 👨‍💻 Portfolio and projects at [osmanadam.dev](https://osmanadam.dev)
-- 📫 Reach me at **contact.namso@gmail.com**
+- 📫 Reach me at **hello@osmanadam.dev**
 - ⚡ Fun fact: **#ebdbb2 is my favourite colour**
 
 <h3 align="left">Connect with me:</h3>
